@@ -1,0 +1,6 @@
+{
+  "name": "Motion Studio",
+  "description": "A high-performance, keyframe-based motion graphics and video editing tool in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
